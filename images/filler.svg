@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Filler" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 680" style="enable-background:new 0 0 1920 680;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EFEFEF;}
+	.st1{fill:#2D98D4;}
+	.st2{fill:#D92027;}
+</style>
+<g>
+	<rect class="st0" width="1920" height="680"/>
+</g>
+<path class="st1" d="M1460,354v-50h-100v200h-50V254h200v100H1460z"/>
+<path class="st1" d="M1060,504V254h200v150h-150v50h150v50H1060z M1210,304h-100v50h100V304z"/>
+<rect x="960" class="st1" width="50" height="680"/>
+<rect x="910" class="st2" width="50" height="680"/>
+<path class="st2" d="M810,204v-50h50v50H810z M810,504V254h50v250H810z"/>
+<path class="st2" d="M710,254v-50H610v100h100v50H610v150h-50V154h200v100H710z"/>
+</svg>
